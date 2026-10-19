@@ -35,9 +35,6 @@ Greggs, Unilever, AstraZeneca, HSBC, BP, Rolls-Royce, Tesco, Rightmove, JD Sport
 
 The portfolio lagged by 4.6 percentage points. Equal weighting meant six underperformers outweighed two strong winners. Volatility was above the index despite a beta below 1, showing high stock-specific risk from holding only ten names.
 
-## Methodology lesson
-
-My first version showed 2.4% outperformance. It compared dividend-adjusted stock prices with the price-only FTSE 100 index and assumed daily rebalancing. Correcting both reversed the conclusion.
 
 ## How to run
 
